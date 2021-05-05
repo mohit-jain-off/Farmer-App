@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Farmer App</string>
+    <string name="email">Email</string>
+    <string name="haven_t_registered_yet_sign_up">Haven\'t Registered yet ? Sign Up</string>
+</resources>
